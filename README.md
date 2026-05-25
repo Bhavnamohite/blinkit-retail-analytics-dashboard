@@ -4,7 +4,7 @@
 An interactive and executive-ready retail analytics dashboard built in **Microsoft Excel** using official Blinkit corporate brand identity. This platform analyzes **₹1,201,681** in gross revenue across 8,523 total items sold to uncover key performance indicators (KPIs), structural growth trends, and optimization pathways for fulfillment outlets.
 
 ### 🖼️ Dashboard Preview
-![Blinkit Dashboard](Dashboard.jpg) 
+![Dashboard.jpg](Dashboard.jpg) 
 
 ---
 
